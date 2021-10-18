@@ -22,3 +22,15 @@ ToDoモデルを親とし、ToDoDaily, ToDoWeekly, ToDoMonthlyを子とする。
 ## ToDoMonthly
 - todo_id
 - month
+
+# About Calender and Record
+finishedカラムがtrueのとき、履歴のデータとして表示できるようにする。
+
+## Event
+- title     (t.string)
+- body      (t.text)
+- start     (t.datatime)
+- end       (t.datatime)
+- color     (t.string)
+- all_day   (t.boolean)
+- finished  (t.boolean)
