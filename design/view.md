@@ -2,6 +2,7 @@
 - [Index](#index)
 - [Laptop](#laptop)
   - [topPage](#toppage)
+  - [toDoEdit](#todoedit)
 
 # Laptop
 ## topPage
@@ -14,4 +15,11 @@
 - 今週/今月のToDo
   - 必要に応じて表示切り替え可能にする
   - チェックボックスを設ける
+  - 新規投稿ボタン実装
 - 重要メール通知(連携が可能であれば)
+- 今月のカレンダー
+
+## toDoEdit
+- todolistの編集
+  - タイトル、本文、締切日、終了済みの編集
+  - 削除ボタン実装
